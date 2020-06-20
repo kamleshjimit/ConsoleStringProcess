@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleStringProcess": {
+      "commandName": "Project",
+      "commandLineArgs": "\"String String String String\""
+    }
+  }
+}
