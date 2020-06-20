@@ -10,8 +10,8 @@ namespace ConsoleStringProcess
     /// </summary>
     public class StringUtility
     {
-        private string input;
         private static int SIZE = 26;
+        private string input;
         private int totalChar;
         private int[] freq = new int[SIZE];
         private StringBuilder alphabets, charFrequency;

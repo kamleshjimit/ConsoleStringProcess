@@ -4,6 +4,10 @@ namespace ConsoleStringProcess
 {
     class Program
     {
+        /// <summary>
+        /// Input string arg to count characters and display in the given format.
+        /// </summary>
+        /// <param name="args1">Input string arg.</param>
         static void Main(string[] args)
         {
             if(args.Length == 1)
